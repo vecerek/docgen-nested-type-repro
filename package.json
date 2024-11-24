@@ -1,0 +1,19 @@
+{
+  "name": "docgen-nested-type-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docgen": "docgen"
+  },
+  "keywords": [],
+  "author": "Attila Večerek",
+  "license": "ISC",
+  "homepage": "https://github.com/vecerek",
+  "devDependencies": {
+    "@effect/docgen": "^0.5.0",
+    "effect": "^3.10.16",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
